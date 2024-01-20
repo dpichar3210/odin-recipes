@@ -5,3 +5,15 @@ body {
 li {
     font-family: Monospace, "Lucida Console", sans-serif;
 }
+
+div {
+    background-color: coral;
+    width: 350px;
+    text-align: center;
+}
+
+h2, h3 {
+    background-color: cornflowerblue;
+    text-align: center;
+    width: 200px;
+}
