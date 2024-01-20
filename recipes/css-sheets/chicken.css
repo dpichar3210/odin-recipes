@@ -5,3 +5,15 @@ body {
 li {
     font-family: Serif, 'Times New Roman', sans-serif;
 }
+
+.recipename {
+    background-color:firebrick;
+    width: 250px;
+}
+
+h2, h3 {
+    background-color:blanchedalmond;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+}
