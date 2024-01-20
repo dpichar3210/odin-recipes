@@ -12,3 +12,13 @@ li {
     font-family: Monospace, "Courier New", sans-serif;
     font-size: 20px;
 }
+
+div {
+    padding: 20px;
+    margin-left: 40px;
+    width: 300px;
+}
+
+.recipe {
+    background-color: goldenrod;
+}
